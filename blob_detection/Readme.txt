@@ -1,1 +1,1 @@
-Detcecting Blobs
+Detcecting Blobs in Images 
