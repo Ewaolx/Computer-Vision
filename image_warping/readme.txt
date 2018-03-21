@@ -1,1 +1,1 @@
-Implemented image warping using RANSAC algorithm
+Implemented image warping using affine transfomation of the image
