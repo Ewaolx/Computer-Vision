@@ -1,0 +1,3 @@
+Build a image stitching model using Homography matrix estimation.
+Harris corner detector was used to extract feature points.
+Homography mapping of one image onto another was carried out using RANSAC.
